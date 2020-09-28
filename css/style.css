@@ -1,0 +1,31 @@
+.bg-dark{
+    background-color:cadetblue !important;
+
+}
+.navbar-brand img{
+    height:10vh;
+    width:15vh;
+
+}
+.footer-sec
+{
+    background-color:cadetblue;
+    text-align: center;
+}
+
+.carousel-inner img{
+    height: 450px;
+
+}
+.carousel-inner h2{
+    color: black;
+    
+}
+.container-fluid p{
+    text-align: justify;
+}
+.jumbotron {
+        padding: 20px 20px 20px 20px;
+}
+
+
